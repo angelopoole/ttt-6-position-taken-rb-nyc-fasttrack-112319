@@ -5,4 +5,5 @@ def position_taken?(index)
     true
   else
     false
+  end
 end
